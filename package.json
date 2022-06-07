@@ -1,0 +1,28 @@
+{
+  "name": "my-projects",
+  "version": "1.0.0",
+  "description": "node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keshavaraj-21/my-projects.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "keshavaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keshavaraj-21/my-projects/issues"
+  },
+  "homepage": "https://github.com/Keshavaraj-21/my-projects#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "logger": "0.0.1"
+  }
+}
